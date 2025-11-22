@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I am Sohail Alakhdar, a computer science student with strong experience in backend and frontend development. I work extensively with Node.js, NestJS, and Express, building reliable APIs with proper error handling, validation, and effective use of regular expressions.<br>I have hands-on experience with MongoDB, MySQL, and SQL, and I use Sequelize as an ORM for relational databases.<br>On the frontend, I build clean and responsive interfaces using HTML and CSS.<br>I also work with TypeScript, Socket.io, GraphQL, AWS, and follow Agile development practices to create scalable and efficient applications.
 
