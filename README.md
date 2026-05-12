@@ -15,5 +15,7 @@ I am Sohail Alakhdar, a computer science student with strong experience in backe
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SohailAlakhdar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+[![](https://visitcount.itsvg.in/api?id=SohailAlakhdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
